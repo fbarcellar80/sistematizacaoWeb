@@ -5,7 +5,7 @@ Sistematização da matéria de Programação e Desenvolvimento Web - Turma B - 
 
 Para oferecer uma experiência de usuário em diversos dispositivoso site implementado possui diversas técnicas para garantir que o layout, as imagens e o texto se adaptem perfeitamente a diferentes tamanhos de tela, proporcionando uma navegação agradável em desktops, tablets e smartphones.
 
-# Seguem os principais recursos empregadoS para responsibilidade do site:
+# Seguem os principais recursos empregados para responsibilidade do site:
 
 Meta Tag da Viewport: Essa tag define a largura da janela do navegador de acordo com a tela do dispositivo e define a escala inicial de zoom.
 
